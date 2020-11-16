@@ -1,0 +1,1 @@
+wscript.exe "C:\ProgramData\IT\1909_Upgrade\Invoke-PSScript.vbs" "New-WaaSUpdateTriggerEvent.ps1"

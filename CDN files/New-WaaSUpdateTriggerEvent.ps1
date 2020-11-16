@@ -1,0 +1,1 @@
+Write-EventLog -LogName "Application" -Source "Windows 10 Update" -EventID 54321 -EntryType Information -Message "Windows 10 Update UI invoked" -Category 1
